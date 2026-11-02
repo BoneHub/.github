@@ -4,11 +4,10 @@
 
 # BoneHub
 
-**A hub for large-scale, population-based 3D bone shapes**
+**A Hub for Large-Scale Population-Based 3D Bone Shapes**
 
-[![Website](https://img.shields.io/badge/Website-bonehub.github.io-0d8a7a?style=flat-square)](https://bonehub.github.io/)
-[![bonehub.eu](https://img.shields.io/badge/bonehub.eu-0d8a7a?style=flat-square)](https://bonehub.eu)
-[![GitHub](https://img.shields.io/badge/GitHub-bonehub-181717?style=flat-square&logo=github)](https://github.com/bonehub)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-bonehub-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/bonehub)
+[![Website](https://img.shields.io/badge/Website-00D1B2?style=flat-square&logo=googlechrome&logoColor=white)](https://bonehub.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/bonehub)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/bonehub)
 
 </div>
